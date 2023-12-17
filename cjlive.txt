@@ -182,7 +182,7 @@ CCTV17,http://v.ran-ran.top/zb/migu.php?id=cctv17
 江西卫视,http://218.241.192.50:8808/udp/239.3.1.123:8164
 吉林卫视,http://218.241.192.50:8808/udp/239.3.1.240:8172
 
-体育频道,#genre#
+▶️体育频道,#genre#
 WWE,https://live.metshop.top/huya/20971519
 AEW,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 足球1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
@@ -245,46 +245,26 @@ FOX体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
 
 
 ▶️┃明星,#genre#
-
-
-
 周星馳一,http://tx-screenshots.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
-
 周星馳二,http://103.45.68.47:666/gy/gy_ojsMXn/斗鱼.php?id=122402
-
-
-
 邵氏影院,http://103.45.68.47:666/gy/gy_ojsMXn/斗鱼.php?id=4246519
 周星馳粵語d,http://103.45.68.47:666/gy/gy_ojsMXn/斗鱼.php?id=6566671
-
 李連傑,http://tx-screenshots.flv.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.m3u8
 周潤發,http://tx-screenshots.flv.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.m3u8
 劉德華,http://tx-screenshots.flv.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
 洪金寶,http://tx-screenshots.flv.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.m3u8
 成龍一,http://tx-screenshots.flv.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.m3u8
-
-
 成龍一,https://epg.pw/stream/eafc1adaaec0364fa93e48fbaa0a48ea1e1e9f1912cdc7512da8967b95004da5.ctv
-
 成龍三,http://103.45.68.47:666/gy/gy_ojsMXn/斗鱼.php?id=3379942
 成龍李連傑,http://103.45.68.47:666/gy/gy_ojsMXn/斗鱼.php?id=8107217
 李小龍,http://103.45.68.47:666/gy/gy_ojsMXn/斗鱼.php?id=8721095
-
-
 女神系列☆邱淑貞 王祖賢 張曼玉,https://live.goodiptv.club/api/huya.php?id=11336571
 沈騰一,https://live.goodiptv.club/api/huya.php?id=11601968
 沈騰二,http://103.45.68.47:666/gy/gy_ojsMXn/斗鱼.php?id=85894
-
-
-
 吳孟達,http://43.128.40.42:198/虎牙直播/huya.php?id=11336592
 吳孟達,https://www.goodiptv.club/huya/11336592
 吳孟達,https://live.metshop.top/huya/11336592
 吳孟達,http://hls.ye23.vip/wl/huya2205.php?id=11336592
-
-
-
-
 邵氏影院,http://lxajh.top/tv/douyu.php?id=4246519
 周星馳一,http://43.128.40.42:198/虎牙直播/huya.php?id=11342412
 周星馳二,http://lxajh.top/tv/douyu.php?id=122402
@@ -309,8 +289,6 @@ FOX体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
 沈騰二,http://lxajh.top/tv/douyu.php?id=85894
 林正英,http://43.128.40.42:198/虎牙直播/huya.php?id=11342421
 黃勃,http://43.128.40.42:198/虎牙直播/huya.php?id=11352876
-
-
 邵氏影院,https://tv.iill.top/douyu/4246519
 周星馳一,http://epg.112114.xyz/huya/11342412
 周星馳二,https://tv.iill.top/douyu/122402
@@ -335,9 +313,6 @@ FOX体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
 沈騰二,https://tv.iill.top/douyu/85894
 林正英,http://epg.112114.xyz/huya/11342421
 黃勃,http://epg.112114.xyz/huya/11352876
-
-
-
 邵氏影院,http://43.138.170.29:35455/douyu/4246519
 周星馳一,https://www.goodiptv.club/huya/11342412
 周星馳二,http://43.138.170.29:35455/douyu/122402
@@ -362,8 +337,7 @@ FOX体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
 沈騰二,http://43.138.170.29:35455/douyu/85894
 林正英,https://www.goodiptv.club/huya/11342421
 黃勃,https://www.goodiptv.club/huya/11352876
-
-
+黃勃,https://live.metshop.top/huya/11352876
 邵氏影院,https://live.metshop.top/douyu/4246519
 周星馳一,https://live.metshop.top/huya/11342412
 周星馳二,https://live.metshop.top/douyu/122402
@@ -387,9 +361,6 @@ FOX体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
 沈騰一,https://live.metshop.top/huya/11601968
 沈騰二,https://live.metshop.top/douyu/85894
 林正英,https://live.metshop.top/huya/11342421
-黃勃,https://live.metshop.top/huya/11352876
-
-
 周星馳一,http://hls.ye23.vip/wl/huya2205.php?id=11342412
 周星馳粵語h,http://hls.ye23.vip/wl/huya2205.php?id=11336587
 洪金寶,http://hls.ye23.vip/wl/huya2205.php?id=11279251
@@ -407,17 +378,6 @@ FOX体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
 沈騰一,http://hls.ye23.vip/wl/huya2205.php?id=11601968
 林正英,http://hls.ye23.vip/wl/huya2205.php?id=11342421
 黃勃,http://hls.ye23.vip/wl/huya2205.php?id=11352876
-
-
-
-
-
-
-
-
-
-
-
 
 ▶️┃斗鱼,#genre#
 神乐影院-1台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
