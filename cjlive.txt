@@ -1,23 +1,6 @@
-🔓┃解锁,#genre#
-🟩陈江2023-12-17,http://8.210.232.168/tuiguang/tg.mp4
-莲华,http://103.45.68.47:666/gy/gy_ojsMXn/莲花.php
-BesTV 电影 480,http://bp-caster.bestv.com.cn/480/1/video.m3u8
-BesTV 电影 490,http://bp-caster.bestv.com.cn/490/1/video.m3u8
-BesTV 电影 494,http://bp-caster.bestv.com.cn/494/1/video.m3u8
-BesTV 电影 532,http://bp-caster.bestv.com.cn/532/1/video.m3u8
-BesTV 独播 789,https://bp-caster.bestv.com.cn/789/3/video.m3u8
-BesTV 独播 940,https://bp-caster.bestv.com.cn/940/3/video.m3u8
-BesTV 独播 944,https://bp-caster.bestv.com.cn/944/3/video.m3u8
-BesTV 独播 946,https://bp-caster.bestv.com.cn/946/3/video.m3u8
-BesTV 独播 955,https://bp-caster.bestv.com.cn/955/3/video.m3u8
-
-无限新闻,http://103.45.68.47:666/cs.php?u=http://182.93.22.42:8080/0.ts
-CCTV1高清,http://222.175.159.226:808/hls/20231/index.m3u8 
-
-
+🔓┃陈江2023-12-17,#genre#
 音乐欣赏,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAguOaa4gUo_J_z6gI.mp4
 豆瓣高分,http://epg.112114.xyz/douyu/8770422
-
 80后音乐,http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
 电音电台,http://play.redefine.ltd/Stream3/FM10583.m3u8
 怀旧金曲,http://cnlive.cnr.cn/hls/hjyyzs.m3u8
@@ -40,13 +23,13 @@ CCTV1高清,http://222.175.159.226:808/hls/20231/index.m3u8
 古典音乐,http://play.redefine.ltd/Stream2/FM10582.m3u8
 民谣蓝调,http://playradiostream3.hndt.com/now/XWfN89gh/playlist.m3u8
 舞迷心窍,http://playradiostream3.hndt.com/now/WBhgSD3A/playlist.m3u8
+
 ▶️┃新片,#genre#
 封神 朝歌风云,https://lf6-douyin-ckVtos.pstatp.com/obj/tos-cn-i-siecs4i2o7/ogZjygANKAzoQUAOExAABJ3MNGfRsh2hoAzcNA
 绝地追击,https://vip.ffzy-online6.com/20230923/18977_8858015e/2000k/hls/index.m3u8
 消失的她,https://lf9-xigua-ckVtos.pstatp.com/obj/tos-cn-i-siecs4i2o7/o41osyAQdDJhAydQgAAAiPWtrTdQjfEzAhBBNG
 明日战记 粤语,https://vip.lzcdn2.com/20221130/22820_09be4d48/index.m3u8
 孤注一掷清晰版,https://.ijycnd.com/play/zbqmMMkb/index.m3u8
-
 
 ▶️┃央视,#genre#
 CCTV1,http://111.13.111.242/000000001000PLTV/88888888/224/3221236219/1.m3u8?HlsProfileId=
