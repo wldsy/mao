@@ -33,7 +33,7 @@
 
 ▶️┃央视,#genre#
 
-CCTV1,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
+
 CCTV1,http://alivealone.litenews.cn/301/b597ff6aa9cb40aba57bb011b13865ad.flv
 CCTV1,http://v.ran-ran.top/zb/migu.php?id=cctv1
 CCTV1,http://v.ran-ran.top/zb/migu.php?id=cctv1b
