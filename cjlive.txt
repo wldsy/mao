@@ -79,7 +79,7 @@ CCTV17,http://v.ran-ran.top/zb/migu.php?id=cctv17
 ▶️┃卫视,#genre#
 山东卫视,http://v.ran-ran.top/zb/migu.php?id=sdws
 山东卫视,http://171.214.202.74:4000/udp/239.93.0.168:5140
-
+山东卫视,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.flv
 厦门卫视,https://xiamenalic.v.myalicdn.com/xiamen/xiamen_1/index.m3u8
 东南卫视,http://live.aishang.ctlcdn.com/00000110240588_1/encoder/0/playlist.m3u8?CONTENTID=00000110240588_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 东方卫视,http://v.ran-ran.top/zb/migu.php?id=dfws2
