@@ -1,6 +1,9 @@
 陈江1月5日,#genre#
 音乐欣赏,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAguOaa4gUo_J_z6gI.mp4
+好歌不停,http://mmitv.top/pltv/yy.php?id=54880976
+热舞不断,http://mmitv.top/pltv/yy.php?id=22490906
 豆瓣高分,http://epg.112114.xyz/douyu/8770422
+HBO,http://208.115.225.174:14136#http://208.115.225.174:14165
 80后音乐,http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
 怀旧金曲,http://cnlive.cnr.cn/hls/hjyyzs.m3u8
 老歌音乐,http://live.xmcdn.com:80/live/2628/64.m3u8
@@ -803,7 +806,7 @@ CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
 CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
-CCTV1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225816/index.m3u8#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV-1 综合,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225816/index.m3u8#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV3,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225799/index.m3u8#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV4,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -2834,8 +2837,7 @@ yy小品3,http://mmitv.top/pltv/yy.php?id=1354936198
 地下交通站,http://mmitv.top/pltv/yy.php?id=1353428972&uid=2463800499
 宰相刘罗锅,http://mmitv.top/pltv/yy.php?id=1382745191&uid=2786225719
 赵本山小品,http://mmitv.top/pltv/yy.php?id=32160832&uid=2361867875
-好歌不停,http://mmitv.top/pltv/yy.php?id=54880976
-热舞不断,http://mmitv.top/pltv/yy.php?id=22490906
+
 
 斗鱼-精选,#genre#
 周星驰,http://epg.112114.xyz/douyu/122402
@@ -2867,6 +2869,7 @@ yy小品3,http://mmitv.top/pltv/yy.php?id=1354936198
 雍正帝王,http://epg.112114.xyz/douyu/9650836
 隋唐演义,http://epg.112114.xyz/douyu/7552568
 舌尖美食,http://epg.112114.xyz/douyu/9650849
+电影解说,#genre#
 史剧解说,http://epg.112114.xyz/douyu/297689
 老秦说剧,http://epg.112114.xyz/douyu/9650131
 宇哥解说,http://epg.112114.xyz/douyu/8651489
@@ -2884,7 +2887,9 @@ yy小品3,http://mmitv.top/pltv/yy.php?id=1354936198
 小片片说大片,http://epg.112114.xyz/douyu/4258555
 大片片说小片,http://epg.112114.xyz/douyu/7489563
 火龙果说电影,http://epg.112114.xyz/douyu/9559158
-
+电影解说1,http://epg.112114.xyz/douyu/1979257
+电影解说7,http://epg.112114.xyz/douyu/8799435
+电影解说15,http://epg.112114.xyz/douyu/8788687
 明星电影,#genre#
 李连杰,https://live.metshop.top/huya/11342390
 林正英,https://live.metshop.top/huya/11342421
@@ -2967,38 +2972,4 @@ yy小品3,http://mmitv.top/pltv/yy.php?id=1354936198
 粤语综艺,http://epg.112114.xyz/douyu/7919720
 连续剧2,http://epg.112114.xyz/douyu/7623292
 连续剧4,http://epg.112114.xyz/douyu/7476264
-电影解说1,http://epg.112114.xyz/douyu/1979257
-电影解说7,http://epg.112114.xyz/douyu/8799435
-电影解说15,http://epg.112114.xyz/douyu/8788687
 
-HBO系列,#genre#
-HBO,http://208.115.225.174:14136#http://208.115.225.174:14165
-
-内部测试_024688,#genre#
-Tiny 4K,http://89.248.160.57/iptv/RFPEEUQNURN7MN/6258/index.m3u8#http://89.248.160.57/iptv/Q5MK5AD8A8ZBUA/6258/index.m3u8
-Eromania 4K_4,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/10049/index.m3u8
-3Potnra 4K_4,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/16069/index.m3u8
-MyZen TV 4K_4,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/5002/index.m3u8
-Tiny 4K_8,http://89.248.160.57/iptv/QAX2K7HNCDZF2N/6258/index.m3u8
-松视1欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
-松视2欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
-惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
-粉红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8
-潘朵拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8
-香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
-蜜桃成熟时,https://1080p.huyall.com/play/negJPprd/index.m3u8
-社长秘书,https://bf1.semaobf1.com/20230420/93CF1321BECEFA58/hls/1500k/index.m3u8
-對不起到高潮,https://bf1.semaobf1.com/20230507/21F6C393E9274E8C/hls/2000k/index.m3u8
-卧底调查员,https://bf1.semaobf1.com/20220902/D3ABEFDF1EFB3905/hls/1000k/index.m3u8
-泳衣模特儿,https://bf1.semaobf1.com/20220729/A101911F19F7C12E/hls/1500k/index.m3u8
-巴士时间停止,https://bf1.semaobf1.com/20230413/CE8B418092E7F49F/hls/1500k/index.m3u8
-安娜的恶作剧,https://bf1.semaobf1.com/20220905/EBBE3BE9B541AC87/hls/1000k/index.m3u8
-教室内群P大战,https://bf1.semaobf1.com/20210924/7CF8177CA287AFDC/hls/2000k/index.m3u8
-863蕾时间停止,https://bf1.semaobf1.com/20220426/3C93F5AA61D1C01F/hls/1000k/index.m3u8
-例行身体检查,https://bf1.semaobf1.com/20220317/CE3FDF4BB430073A/hls/2000k/index.m3u8
-小姐姐中出体检,https://bf1.semaobf1.com/20220801/2E68724EBE96C352/hls/2000k/index.m3u8
-牙科诊所,https://bf1.semaobf1.com/20230502/7D3DCE3845550F6F/hls/1000k/index.m3u8
-香港奇案强奸,https://bf1.semaobf1.com/20220429/D632667C0D09F8FF/hls/1500k/index.m3u8
-爱情公寓3,https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/2c997077/index.m3u8
-爱情公寓4,https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/106977bb/index.m3u8
-爱情公寓5,https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/01e75fc2/index.m3u8
