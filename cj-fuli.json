@@ -46,6 +46,15 @@
     {"key":"zp123","name":"色猫资源(慢)(直连)","type":0,"api":"https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"zp129","name":"鲨鱼资源(直连)","type":0,"api":"https://shayuapi.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"lyzyz78|laoyazy.com","name":"老鸭资源(直连)","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"*色南国资源","name":"*🔞色南国资源","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key": "*AIvin","name": "*🔞AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml"},
+    { "key": "(18+)JAV名优", "name": "*🔞JAV名优", "type": 0, "api": "http://mygzycj.com/api.php?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 0 },	
+
+
+
+
+    
+    
     {"key":"push_agent","name":"💤推送(播放页链接或磁力)","type":3,"api":"csp_PushAgent","searchable":0}
   ],
 
