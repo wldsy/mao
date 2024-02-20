@@ -7,6 +7,16 @@
   ],
 
   "sites":[
+    {"key":"chengren", "name":"❤️┃成人1┃❤️", "type":1,"api":"https://www.partnersky-horoskop.com/api.php/provide/vod/","searchable":1, "quickSearch":1},
+{"key":"直播转点播1","name":"💃佳丽┃直播","type": 3,"api":"https://pan.shangui.cc/f/myVAfb/%E5%A4%A7%E4%BA%BA%E5%BD%B1%E8%A7%86.json","ext":"https://pan.shangui.cc/f/wDzYug/%E7%9B%B4%E6%92%AD.txt"},
+{"key":"直播转点播2","name":"🧜‍♀️魅惑┃直播","type": 3,"api":"https://pan.shangui.cc/f/8VvyHo/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD2.js","ext":"https://pan.shangui.cc/f/wDzYug/%E7%9B%B4%E6%92%AD.txt"},
+{"key":"chengren2", "name":"❤️┃成人2┃❤️", "type":1,"api":"https://www.caoliuzy.com/api.php/provide/vod/","searchable":1, "quickSearch":1},
+{"key": "老鸭","name": "❤️┃成人3┃❤️","type": 1,"api": "https://api.apilyzy.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key":"*博天堂","name":"❤️┃成人4┃❤️","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0},
+{"key": "探探","name": "❤️┃成人5┃❤️","type": 1,"api": "https://apittzy.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "乐播","name": "❤️┃成人6┃❤️","type": 1,"api": "https://lbapi9.com/api.php/provide/vod/at/json/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "葡萄","name": "❤️┃成人7┃❤️","type": 1,"api": "https://caiji.putaozy.net/inc/apijson_vod.php","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "花魁","name": "❤️┃成人8┃❤️","type": 1,"api": "https://caiji.huakuiapi.com/inc/apijson_vod.php","searchable": 1,"quickSearch": 1,"filterable": 0}
     {"key":"量子","name":"量子(直连)","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["伦理片"]},
     {"key":"非凡","name":"非凡(直连)","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["伦理片"]},
     {"key": "*博天堂","name": "*🔞博天堂","type": 0,"api": "http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0,"filterable": 0,"jar":"https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"},
@@ -83,6 +93,9 @@
     {"name":"Json并发","type":2,"url":"Parallel"},
     {"name":"Json轮询","type":2,"url":"Sequence"},
     {"name":"综合","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
+    {"name":"keyu","type":1,"url":"https://jx.777jiexi.com/player/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name":"GGTV1","type":1,"url":"https://cy.jonwer.cn/home/api?type=ys&uid=13139054&key=cdouvyDGNOPTV01369&url="},
+{"name":"GGTV2","type":1,"url":"https://play.fuqizhishi.com/jx/API.php?appkey=xiaobai888&url="},
     {"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
     {"name":"醉仙","type":0,"url":"https://jx.zui.cm/?url="},
     {"name":"爱酷","type":0,"url":"https://jx.zhanlangbu.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
