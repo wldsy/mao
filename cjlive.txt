@@ -763,8 +763,6 @@ FOX体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
 电影解说15,http://epg.112114.xyz/douyu/8788687
 
 电影轮播,#genre#
-【天龙八部】97版,https://live.metshop.top/huya/23903123
-【法证先锋】,https://live.metshop.top/huya/23863804
 邵氏影院,http://epg.112114.xyz/douyu/4246519
 斗鱼探险,http://epg.112114.xyz/douyu/3485629
 斗鱼电影2,http://epg.112114.xyz/douyu/7459925
@@ -1209,17 +1207,3 @@ iHOT系列ipv6,#genre#
 爱喜剧,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3#http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000032/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000032&livemode=1&stbId=3
 爱悬疑,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3#http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000036/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000036&livemode=1&stbId=3
 爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3#http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=3
-
-4K超高清,#genre#
-北京纪实科教8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-4K修复,rtmp://liveshowbak2.kan0512.com/norecord/csztv4k_4k
-4k记录欧洲,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-静态4K测试,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-MyZen TV 4K_3,http://89.248.160.57/iptv/UPKY3Y8BF6KNX8/5002/index.m3u8
-时装Fashion TV 4K,http://89.248.160.57/iptv/RFPEEUQNURN7MN/4005/index.m3u8
-Russian Extreme 4K_4,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/5003/index.m3u8
-体育SKY SPORT 4K_4,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/6820/index.m3u8
-MM Flip UHD 4K_4,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/13057/index.m3u8
-BCU Premiere Ultra 4K_5,http://89.248.160.57/iptv/ADYDWLKVER8U7V/15023/index.m3u8
-MUSEUMTV 4K_4,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/14016/index.m3u8
-
