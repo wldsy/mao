@@ -1287,20 +1287,6 @@ HAPPY BIRTAY 筒井彩萌,http://mmitv.top/test/douyu.php?id=40471&u=936756&cate
 2021年,https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4#http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
 2022年,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
 
-
-▶️┃测试_62556255,#genre#
-🔞 Erox,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-🔞 Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-🔞 Private,http://146.59.54.163/356/playlist.m3u8
-🔞 Dorcel,http://146.59.54.163/345/index.m3u8
-🔞 Vivid Red,http://cdnx1.plusx.tv:8880/361/mono.m3u8?token=65df4b105d30b4b9573333
-🔞 Hustler,http://146.59.54.163/348/index.m3u8
-🔞 Brazzers,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-🔞 Penthouse,http://146.59.54.163/353/index.m3u8
-🔞 Babes,http://146.59.54.163/354/index.m3u8
-🔞 Playboy+,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6242/index.m3u8
-
-
 ［港澳台］,#genre#
 民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4012/playlist.m3u8#http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
@@ -1434,3 +1420,58 @@ iHOT系列ipv6,#genre#
 爱喜剧,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3#http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000032/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000032&livemode=1&stbId=3
 爱悬疑,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3#http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000036/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000036&livemode=1&stbId=3
 爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3#http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=3
+
+▶️┃测试_62556255,#genre#
+🔞 Erox,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+🔞 Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+🔞 Private,http://146.59.54.163/356/playlist.m3u8
+🔞 Dorcel,http://146.59.54.163/345/index.m3u8
+🔞 Vivid Red,http://cdnx1.plusx.tv:8880/361/mono.m3u8?token=65df4b105d30b4b9573333
+🔞 Hustler,http://146.59.54.163/348/index.m3u8
+🔞 Brazzers,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+🔞 Penthouse,http://146.59.54.163/353/index.m3u8
+🔞 Babes,http://146.59.54.163/354/index.m3u8
+🔞 Playboy+,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6242/index.m3u8
+卫星机房专用30,http://194.116.150.47:1935/vxtv/live_720p/chunklist_w1156491225.m3u8
+卫星机房专用36,http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
+卫星机房专用38,http://static.brazzers.com/scenes/7029/180sec.flv
+迈阿密电,http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
+迈阿密电,http://59ec5453559f0.streamlock.net:1935/jennyforyou/jennyforyou/playlist.m3u8
+彩虹e台,mitv://generationnexxxt.com:19806/3f5f22df9a324f759e43967b0d3ffe65
+彩虹e台,mitv://135.148.104.228:19806/3f5f22df9a324f759e43967b0d3ffe65
+彩虹电影台,mitv://generationnexxxt.com:19806/65b9f44984e749a8b14455a173779644
+彩虹电影台,mitv://135.148.104.228:19806/65b9f44984e749a8b14455a173779644
+LOOK TV,mitv://generationnexxxt.com:19806/c8aab8c8683c4f35aba0e745535afd41
+LOOK TV,mitv://135.148.104.228:19806/c8aab8c8683c4f35aba0e745535afd41
+潘朵啦玩美台,mitv://generationnexxxt.com:19806/3f91635cf956419490d1905f7d5c6790
+潘朵拉玩美台,mitv://135.148.104.228:19806/3f91635cf956419490d1905f7d5c6790
+惊艳成人台,mitv://generationnexxxt.com:19806/9eaea463d2f54b5d92fb34948ad0b72d
+惊艳成人台,mitv://135.148.104.228:19806/9eaea463d2f54b5d92fb34948ad0b72d
+松视1台,mitv://generationnexxxt.com:19806/878c994ac52a4c50a71914f559b0ddc6
+松视1台,mitv://135.148.104.228:19806/878c994ac52a4c50a71914f559b0ddc6
+松视2台,mitv://generationnexxxt.com:19806/3bd5b1fec1134ecc856c965a5c0e6ff9
+松视2台,mitv://135.148.104.228:19806/3bd5b1fec1134ecc856c965a5c0e6ff9
+PLAYBOY,mitv://generationnexxxt.com:19806/47f99c6bdb9449a594cc0621f8980f3c
+PLAYBOY,mitv://135.148.104.228:19806/47f99c6bdb9449a594cc0621f8980f3c
+香蕉台,mitv://generationnexxxt.com:19806/cb6c40d4aea546a7b518377e7aee5fb0
+香蕉台,mitv://135.148.104.228:19806/cb6c40d4aea546a7b518377e7aee5fb0
+松视3台,mitv://generationnexxxt.com:19806/0045293e14224851a3e930cf0b8a07f8
+松视3台,mitv://135.148.104.228:19806/0045293e14224851a3e930cf0b8a07f8
+JStar极限台,mitv://generationnexxxt.com:19806/a55acb84487242d882b0b53dd110b845
+JStar极限台,mitv://135.148.104.228:19806/a55acb84487242d882b0b53dd110b845
+HAPPY,mitv://generationnexxxt.com:19806/7b02a03ce3094b4e84f883565805f3a4
+HAPPY,mitv://135.148.104.228:19806/7b02a03ce3094b4e84f883565805f3a4
+K,mitv://generationnexxxt.com:19806/1aec46d506634015a1276c5e4d846976
+K,mitv://135.148.104.228:19806/1aec46d506634015a1276c5e4d846976
+松视1欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
+松视2欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
+俄罗斯成人1台,http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
+俄罗斯成人1台,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+俄罗斯成人2台,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+俄罗斯成人3台,http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
+俄罗斯成人4台,http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
+俄罗斯成人4台,http://cdn.adultiptv.net/lesbian.m3u8
+惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
+粉红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8
+潘朵拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8
+香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
