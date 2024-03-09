@@ -3,8 +3,8 @@
 ▶️┃热门电影,#genre#
 《临时劫案》,https://yzzy.play-cdn19.com/20240306/22153_c54de4da/index.m3u8
 《天注定》,https://v7.dious.cc/20220705/iJ9kQi5I/index.m3u8
-权力之眼,https://ikcdn01.ikzybf.com/20221002/RUdfef0M/index.m3u8
-陀地驱魔人,https://cdn2.vipzyk-video.com/20220330/4574_a1792294/index.m3u8
+《权力之眼》,https://ikcdn01.ikzybf.com/20221002/RUdfef0M/index.m3u8
+《陀地驱魔人》,https://cdn2.vipzyk-video.com/20220330/4574_a1792294/index.m3u8
 《花月杀手》,https://cdn19.vip-vip-yzzy.com/20231205/10092_949ba333/index.m3u8
 《裂战》,https://yzzy.play-cdn21.com/20240306/2628_509c9970/index.m3u8
 
