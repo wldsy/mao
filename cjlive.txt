@@ -5,7 +5,7 @@
 《权力之眼》,https://ikcdn01.ikzybf.com/20221002/RUdfef0M/index.m3u8
 《花月杀手》,https://cdn19.vip-vip-yzzy.com/20231205/10092_949ba333/index.m3u8
 《月球叛军》,https://v10.dious.cc/20231221/yI85ThfW/index.m3u8
-▶️┃测试频道,#genre#
+▶️┃电信频道,#genre#
 新闻综合,http://180.165.20.37:7777/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://180.165.20.37:7777/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 都市频道,http://180.165.20.37:7777/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
