@@ -158,9 +158,7 @@ CETV,http://180.165.20.37:7777/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&aut
 三沙卫视,http://180.165.20.37:7777/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
 兵团卫视,http://180.165.20.37:7777/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 ▶️┃央视频道,#genre#
-CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140#https://migu.188766.xyz/?migutoken=a55dadc35d37e3e168faf8268cc6fa97&id=CETV1&type=yy#https://cc06.tv12.xyz/23.m3u8
-CETV-2,https://migu.188766.xyz/?migutoken=98daa3ba4c81372351b73d9075023b9b&id=CETV2&type=yy#https://cc06.tv12.xyz/24.m3u8
-CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140#https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CETV4&type=yy
+
 cctv3标清,http://110.72.59.166:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5标清,http://110.72.59.166:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 cctv6标清,http://110.72.59.166:8181/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
