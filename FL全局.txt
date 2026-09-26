@@ -27,10 +27,10 @@
 
 
 "caijizhan":[
-	{"name":"💞大地资源💞","url":"https://dadiapi.com/api.php"},
-	{"name":"AIvin","url":"http://lbapiby.com/api.php"},
-	{"name":"kkzy.me","url":"https://kkzy.me/api.php"},
-	{"name":"🔞番号资源","url":"https://lbapi9.com/api.php"}
+	{"name":"💞乐播资源💞","url":"https://lbapi9.com/api.php"},
+	{"name":"🔞番号资源🔞","url":"http://fhapi9.com/api.php"},
+	{"name":"💞玉兔资源💞","url":"https://apiyutu.com/api.php"},
+	{"name":"","url":"https://lbapi9.com/api.php"}
 	],
 
 
