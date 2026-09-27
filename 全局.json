@@ -30,9 +30,15 @@
 	{"name":"555电影1","url":"https://wu5cn.com/api.php/app/"},
 	{"name":"555电影2","url":"https://www.5kan10.com/api.php/app/"},  //https://5565282.vip/
 	{"name":"紫金草影视","url":"http://www.zjcvod.com/api.php/app/"},
-	{"name":"4k_1影视","url":"https://tx.xihauche.cn/api.php/app/"},
+	{"name":"MXONE","url":"https://tx.xihauche.cn/api.php/app/"},
 	{"name":"还行秒播","url":"http://m51.gotto.top/api.php/v1.vod"},
+	{"name":"小枫影视","url":"http://202.140.142.145:3032/api.php/app/"},
+	{"name":"小枫视频","url":"http://cms.supertv01.com/api.php/app/"},
+	{"name":"影子TV","url":"https://www.yingzitv.cc/api.php/v1.vod"},//https://yztv.uk/	
+	{"name":"林中小屋","url":"http://m51.gotto.top/api.php/v1.vod"},
+	{"name":"大米星球","url":"https://www.dmdy3.com//api.php/app/"},//https://www.dmxq.fun/index/home.html
 	{"name":"奴娜TV","url":"https://nntv.uk/api.php/v1.vod"}    //翻墙：www.nntv.in
+	
 	],
 
 
