@@ -1,4 +1,4 @@
-📆20260915,#genre#
+📆20260927,#genre#
 逃之夭夭,http://mobi.kuwo.cn/tmevideo/tme12155598.mp4
 作酒,http://mobi.kuwo.cn/tmevideo/tme16186338.mp4
 两个世界,http://mobi.kuwo.cn/tmevideo/tme1932603.mp4
@@ -2052,4 +2052,3 @@ DJ情歌《昨夜的我又梦到了你》《心上的人儿你在哪》等,http:
 2024年春晚,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 2025年春晚,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 2025年春晚,https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
-
