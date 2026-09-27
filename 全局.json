@@ -81,7 +81,9 @@
 	{"name":"如意┃资源","url":"https://cj.rycjapi.com/api.php/"},
 	{"name":"量子云┃资源","url":"https://cj.lziapi.com/api.php/"},
 	{"name":"OK┃资源","url":"http://api.okzyw.net/api.php"},
-	{"name":"360┃资源","url":"https://360zy.com/api.php/"}
+	{"name":"360┃资源","url":"https://360zy.com/api.php/"},
+	{"name":"看客┃影视","url":"https://see98.seesee.sbs/api.php/"},
+	{"name":"高清┃资源库","url":"https://api.1080zyku.com/inc/apijson.php"}
 	],
 
 
