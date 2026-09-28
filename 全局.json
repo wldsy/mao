@@ -6,7 +6,7 @@
 	{"key":"收藏","title":"我的收藏","pic":"https://gitee.com/wldsy/cj/raw/master/SHOUCANG.png"},
 	{"key":"直播","title":"电视直播","pic":"https://gitee.com/wldsy/cj/raw/master/ZHIBO.jfif"}, 
 	{"key":"自选网页","title":"精品课堂","pic":"https://gitee.com/wldsy/cj/raw/master/16604597319227080.png", "custom": "https://wanzty.dpdns.org/tszs/fenlei/jingpinketang.json"},
-	{"key":"自选网页","title":"芒果课堂","pic":"https://gitee.com/wldsy/cj/raw/master/16604597319227080.png", "custom": "https://wanzty.dpdns.org/tszs/fenlei/mangguoTV.json"},
+	//{"key":"自选网页","title":"芒果课堂","pic":"https://gitee.com/wldsy/cj/raw/master/16604597319227080.png", "custom": "https://wanzty.dpdns.org/tszs/fenlei/mangguoTV.json"},
 	{"key":"APP","title":"APP接口","pic":"https://gitee.com/wldsy/cj/raw/master/APP.png"},
 	{"key":"采集","title":"采集资源","pic":"https://gitee.com/wldsy/cj/raw/master/CAIJI.png"},
 	{"key":"网页","title":"影视网站","pic":"https://gitee.com/wldsy/cj/raw/master/WANGYE.png"},
